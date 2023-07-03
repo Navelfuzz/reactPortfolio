@@ -7,11 +7,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 /* GLOBAL VARIABLES */
 
-window.$primaryLanguage = 'en';
-window.$secondaryLanguage = 'pl';
-window.$primaryLanguageIconId = 'primary-lang-icon';
-window.$secondaryLanguageIconId = 'secondary-lang-icon';
+// window.$primaryLanguage = 'en';
+// window.$secondaryLanguage = 'pl';
+// window.$primaryLanguageIconId = 'primary-lang-icon';
+// window.$secondaryLanguageIconId = 'secondary-lang-icon';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
-serviceWorker.register();
+// serviceWorker.register();
