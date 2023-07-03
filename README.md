@@ -27,3 +27,9 @@ Estimate of time needed to complete: 20 mins
 Start time: 0750
 Finish time: 0815
 Actual time needed to complete: 25
+
+Number and name of feature: #5 Personalization
+Estimate of time needed to complete: 30 mins
+Start time: 0901
+Finish time: xx
+Actual time needed to complete: xx
