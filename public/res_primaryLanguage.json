@@ -11,70 +11,69 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Hobby Generator",
+        "startDate": "2023",
+        "description": "an application which helps people determine what they can do. It helps people find what to do with their time and find some form of fulfilment. It takes inputs from the user like indoor or outdoors, expenses for the hobby, and how active do they want the activity. Give all hobbies that fits their requirements and the full list of hobbies that we have on the second page.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "/images/portfolio/hobbyGenerator/hgen1.jpeg",
+          "/images/portfolio/hobbyGenerator/hgen2.jpeg",
+          "/images/portfolio/hobbyGenerator/hgen3.jpeg"
         ],
-        "url": "",
+        "url": "https://secret-laboratory-org.github.io/hobby-generator/",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Voting App",
+        "startDate": "2023",
+        "description": "Simple HTML, CSS, and JavaScript app that allows users to vote by clicking pictures and see the results tabulated on a second page.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/votingApp/oddDuckVoting.png",
+          "images/portfolio/votingApp/oddDuckResults.png"
         ],
-        "url": "https://github.com",
+        "url": "https://navelfuzz.github.io/Odd-Duck-Finale15b/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Design Comp",
+        "startDate": "2023",
+        "description": "An HTML/CSS project that takes a design comp and recreates it in HTML and CSS.",
+        "images": [
+          "images/portfolio/designComp/chocPizza.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }
