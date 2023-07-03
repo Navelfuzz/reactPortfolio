@@ -19,5 +19,11 @@ Actual time needed to complete: 25
 Number and name of feature: #3 Projects section
 Estimate of time needed to complete: 30 mins
 Start time: 0710
-Finish time: xxxx
-Actual time needed to complete: xx
+Finish time: 0740
+Actual time needed to complete: 30
+
+Number and name of feature: #4 Skills/Exp
+Estimate of time needed to complete: 20 mins
+Start time: 0750
+Finish time: 0815
+Actual time needed to complete: 25
