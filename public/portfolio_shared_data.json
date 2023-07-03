@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Jonathon Stillson",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Advanced User" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Navelfuzz",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/jonathon-stillson-28b453273/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "batProfile.jpg"
     },
     "skills": {
       "icons": [
