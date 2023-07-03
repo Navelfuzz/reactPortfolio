@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Samuel-Alexander-AW19-Collection-1-hex { color: #8C1F28; }
+.Samuel-Alexander-AW19-Collection-2-hex { color: #591C21; }
+.Samuel-Alexander-AW19-Collection-3-hex { color: #044040; }
+.Samuel-Alexander-AW19-Collection-4-hex { color: #D92525; }
+.Samuel-Alexander-AW19-Collection-5-hex { color: #F2F2F2; }
+
+/* Color Theme Swatches in RGBA */
+.Samuel-Alexander-AW19-Collection-1-rgba { color: rgba(140, 30, 39, 1); }
+.Samuel-Alexander-AW19-Collection-2-rgba { color: rgba(89, 27, 32, 1); }
+.Samuel-Alexander-AW19-Collection-3-rgba { color: rgba(3, 63, 63, 1); }
+.Samuel-Alexander-AW19-Collection-4-rgba { color: rgba(216, 36, 36, 1); }
+.Samuel-Alexander-AW19-Collection-5-rgba { color: rgba(242, 242, 242, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Samuel-Alexander-AW19-Collection-1-hsla { color: hsla(354, 63, 33, 1); }
+.Samuel-Alexander-AW19-Collection-2-hsla { color: hsla(354, 52, 22, 1); }
+.Samuel-Alexander-AW19-Collection-3-hsla { color: hsla(180, 88, 13, 1); }
+.Samuel-Alexander-AW19-Collection-4-hsla { color: hsla(0, 70, 49, 1); }
+.Samuel-Alexander-AW19-Collection-5-hsla { color: hsla(0, 0, 95, 1); }
