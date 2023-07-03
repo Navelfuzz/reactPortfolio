@@ -41,13 +41,13 @@ class App extends Component {
     //   .setAttribute("filter", "brightness(40%)");
   // }
 
-  // componentDidMount = () => {
-  //   this.loadSharedData();
+   componentDidMount = () => {
+     this.loadSharedData();
   //   this.applyPickedLanguage(
   //     window.$primaryLanguage,
   //     window.$secondaryLanguageIconId
   //   );
-  // }
+   }
 
   loadResumeFromPath = (path) => {
     $.ajax({
