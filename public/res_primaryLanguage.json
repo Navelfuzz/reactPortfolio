@@ -80,37 +80,44 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "United States Coast Guard",
+        "title": "Electronics Technician First Class",
+        "years": "07.2006 - 07.2018",
         "mainTech": [
-          "Angular 8/9/10"
+          "Communication and Navigation"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Analog & Digital Circuits",
+          "Integrated Systems",
+          "Unix Systems and Networking",
+          "Data distribution and monitoring",
+          "Server & Client system support",
+          "RF Theory",
+          "Electronics Reapir and Maintenance",
+          "Project Management",
+          "Product Life Cycle Management & Analysis"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Tidewater Community College",
+        "title": "Student",
+        "years": "09.2019 - 12.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Magna Cum Laude"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Associates of Science in Computer Science"
+        ]
+      },
+      {
+        "company": "Old Dominion University",
+        "title": "Student",
+        "years": "01.2022 - 03.2023",
+        "mainTech": [
+          "Ongoing Studies"
+        ],
+        "technologies": [
+          "Bachelor of Science in Computer Science"
         ]
       }
     ]
