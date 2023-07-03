@@ -13,5 +13,11 @@ Actual time needed to complete: 20
 Number and name of feature: #2 About Me Page
 Estimate of time needed to complete: 30 mins
 Start time: 0640
-Finish time: 0640
-Actual time needed to complete: 20
+Finish time: 0705
+Actual time needed to complete: 25
+
+Number and name of feature: #3 Projects section
+Estimate of time needed to complete: 30 mins
+Start time: 0710
+Finish time: xxxx
+Actual time needed to complete: xx
